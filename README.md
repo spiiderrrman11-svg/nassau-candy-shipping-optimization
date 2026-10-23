@@ -1,4 +1,7 @@
+ ##🚀 Live Demo
+Try the dashboard: ** https://candyshippingproject.streamlit.app/**
 
+An interactive dashboard for exploring Nassau Candy Distributor's shipping performance, sales, and profitability.
 # Nassau Candy Distributor ML Project
 
 ## Objective
