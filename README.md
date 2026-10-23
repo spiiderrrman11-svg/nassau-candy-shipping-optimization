@@ -27,3 +27,11 @@ support shipping-efficiency and factory-reallocation decisions.
 
 ## Technologies
 Python, pandas, scikit-learn, Matplotlib, Seaborn, Google Colab
+
+## 🎥 Project Demo
+
+Watch the recorded walkthrough of the Nassau Candy Analytics dashboard.
+
+[▶️ Watch the Dashboard Demo Video](https://github.com/spiiderrrman11-svg/nassau-candy-shipping-optimization/blob/main/Nassau%20Candy%20Analytics%20%C2%B7%20Streamlit%20and%2012%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202026-10-23%2021-12-30.mp4)
+
+🌐 **Live Dashboard:** [Nassau Candy Analytics](https://candyshippingproject.streamlit.app/)
